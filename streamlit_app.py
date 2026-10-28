@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="Gestión de Nómina Semanal", layout="wide")
+st.set_page_config(page_title="Gestión y Control de Nómina Semanal", layout="wide")
 
 # --- TÍTULO Y PRESENTACIÓN ---
-st.title("📊 Panel de Nómina - Cosecha y Empacadora")
+st.title("📊 Consultor de Nómina")
 st.caption("Periodo de Campaña: Desde el 21 de Septiembre hasta la actualidad")
 
 # --- BARRA LATERAL: CARGA DE EXCEL Y FILTROS ---
